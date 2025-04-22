@@ -22,6 +22,7 @@ Players take turns attacking grid coordinates, with real-time feedback sent over
 
 ### 2. Compile the Project
   - Once you have cloned the repository, compile (and download dependencies) the project.
+      - Compile the project with: mvn compile
 
 ### 3. Run the Game
   - Launch the game using: mvn exec:java
