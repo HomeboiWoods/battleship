@@ -15,6 +15,7 @@ public class StartGame {
 
         try {
             // Ask user: Host or Client?
+            // Adding something for gui branch
             System.out.print("Are you hosting or connecting? (h/c): ");
             String choice = scanner.nextLine().trim().toLowerCase();
 
